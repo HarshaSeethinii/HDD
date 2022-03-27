@@ -1,0 +1,211 @@
+2022-03-27 20:15:04 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 20:15:04 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 20:15:04 INFO  TC001_Login:19 - Login test Started
+2022-03-27 20:15:08 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:15:09 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 20:15:09 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:15:09 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:15:09 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:15:11 INFO  HomePage:19 - Entering password : hars2691
+2022-03-27 20:15:11 INFO  HomePage:19 - Clicking on login
+2022-03-27 20:15:12 INFO  HomePage:19 - Login Success
+2022-03-27 20:15:14 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 20:15:14 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 20:15:14 INFO  TC001_Login:19 - Login test Started
+2022-03-27 20:15:20 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:15:21 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 20:15:22 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:15:22 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:15:22 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:15:24 INFO  HomePage:19 - Entering password : hars2691
+2022-03-27 20:15:24 INFO  HomePage:19 - Clicking on login
+2022-03-27 20:15:25 INFO  HomePage:19 - Login Success
+2022-03-27 20:15:28 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 20:15:28 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 20:15:28 INFO  TC001_Login:19 - Login test Started
+2022-03-27 20:15:35 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:15:35 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 20:15:36 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:15:36 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:15:36 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:15:37 INFO  HomePage:19 - Entering password : hars2691
+2022-03-27 20:15:37 INFO  HomePage:19 - Clicking on login
+2022-03-27 20:15:39 INFO  HomePage:19 - Login Success
+2022-03-27 20:15:43 INFO  TC002_Login_with_Invalid_data:19 - Driver set as Chrome
+2022-03-27 20:15:43 INFO  TC002_Login_with_Invalid_data:19 - Driver Maximizes
+2022-03-27 20:15:43 INFO  TC002_Login_with_Invalid_data:19 - Login test Started
+2022-03-27 20:15:47 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:15:47 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 20:15:48 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:15:48 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:15:48 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:15:49 INFO  HomePage:19 - Entering password : 252542
+2022-03-27 20:15:49 INFO  HomePage:19 - Clicking on login
+2022-03-27 20:15:52 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='nb__3-MNF'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'HARSHA', ip: '192.168.29.226', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\saivinay\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49364}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49364/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c9f0c4193ac55b0674f083971588a18
+2022-03-27 20:15:52 INFO  HomePage:19 - Login Success
+2022-03-27 20:15:57 INFO  TC002_Login_with_Invalid_data:19 - Driver set as Chrome
+2022-03-27 20:15:58 INFO  TC002_Login_with_Invalid_data:19 - Driver Maximizes
+2022-03-27 20:15:58 INFO  TC002_Login_with_Invalid_data:19 - Login test Started
+2022-03-27 20:16:03 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:16:03 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 20:16:04 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:16:04 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:16:04 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:16:05 INFO  HomePage:19 - Entering password : dgdgf
+2022-03-27 20:16:06 INFO  HomePage:19 - Clicking on login
+2022-03-27 20:16:09 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='nb__3-MNF'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'HARSHA', ip: '192.168.29.226', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\saivinay\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49431}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49431/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b9dedd6da670d81bffc9b948127c53bb
+2022-03-27 20:16:09 INFO  HomePage:19 - Login Success
+2022-03-27 20:16:15 INFO  TC002_Login_with_Invalid_data:19 - Driver set as Chrome
+2022-03-27 20:16:15 INFO  TC002_Login_with_Invalid_data:19 - Driver Maximizes
+2022-03-27 20:16:15 INFO  TC002_Login_with_Invalid_data:19 - Login test Started
+2022-03-27 20:16:20 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:16:20 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 20:16:21 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:16:21 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:16:21 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:16:23 INFO  HomePage:19 - Entering password : sdgsr
+2022-03-27 20:16:23 INFO  HomePage:19 - Clicking on login
+2022-03-27 20:16:26 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='nb__3-MNF'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'HARSHA', ip: '192.168.29.226', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\saivinay\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49509}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49509/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6fd02238437dd6f372df3d96dc4c51e
+2022-03-27 20:16:27 INFO  HomePage:19 - Login Success
+2022-03-27 20:16:31 INFO  TC003_VerfiyFanPagesWorking:19 - Driver set as Chrome
+2022-03-27 20:16:32 INFO  TC003_VerfiyFanPagesWorking:19 - Driver Maximizes
+2022-03-27 20:16:32 INFO  TC003_VerfiyFanPagesWorking:19 - Verifying fan pages
+2022-03-27 20:16:37 INFO  HomePage:19 - Opeining facebook
+2022-03-27 20:16:45 INFO  HomePage:19 - Opened Facebook
+2022-03-27 20:16:46 INFO  HomePage:19 - Opeining twitter
+2022-03-27 20:16:49 INFO  HomePage:19 - Unable to open Twitter
+2022-03-27 20:16:50 INFO  HomePage:19 - Opeining Linkdin
+2022-03-27 20:16:57 INFO  HomePage:19 - Unable to open Linkdin
+2022-03-27 20:17:02 INFO  HomePage:19 - Opeining youtube
+2022-03-27 20:17:19 INFO  HomePage:19 - Opened YouTube
+2022-03-27 20:17:25 INFO  HomePage:19 - Opeining Insta
+2022-03-27 20:17:39 INFO  HomePage:19 - Unable to open Insta
+2022-03-27 20:17:45 INFO  TC004_SearchCommertialProperties:19 - Driver set as Chrome
+2022-03-27 20:17:45 INFO  TC004_SearchCommertialProperties:19 - Driver Maximizes
+2022-03-27 20:17:45 INFO  TC004_SearchCommertialProperties:19 - Starting commertial search test
+2022-03-27 20:17:52 INFO  TC004_SearchCommertialProperties:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:17:52 INFO  TC004_SearchCommertialProperties:19 - selcting city as chennai
+2022-03-27 20:17:53 INFO  TC004_SearchCommertialProperties:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India
+2022-03-27 20:17:59 INFO  TC004_SearchCommertialProperties:19 -  Number of Results found for Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India :7
+2022-03-27 20:18:00 INFO  TC004_SearchCommertialProperties:19 - Search for Rent properties Success
+2022-03-27 20:18:03 INFO  TC004_SearchCommertialProperties:19 - Driver set as Chrome
+2022-03-27 20:18:04 INFO  TC004_SearchCommertialProperties:19 - Driver Maximizes
+2022-03-27 20:18:04 INFO  TC004_SearchCommertialProperties:19 - Starting commertial search test
+2022-03-27 20:18:11 INFO  TC004_SearchCommertialProperties:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:18:11 INFO  TC004_SearchCommertialProperties:19 - selcting city as chennai
+2022-03-27 20:18:11 INFO  TC004_SearchCommertialProperties:19 - Entering loacation as Mahavir Nagar Kandivali West, Shravan Nagar, Kandivali West, Mumbai, Maharashtra
+2022-03-27 20:18:16 INFO  TC004_SearchCommertialProperties:19 -  Number of Results found for Mahavir Nagar Kandivali West, Shravan Nagar, Kandivali West, Mumbai, Maharashtra :129
+2022-03-27 20:18:16 INFO  TC004_SearchCommertialProperties:19 - Search for Rent properties Success
+2022-03-27 20:18:20 INFO  TC004_SearchCommertialProperties:19 - Driver set as Chrome
+2022-03-27 20:18:20 INFO  TC004_SearchCommertialProperties:19 - Driver Maximizes
+2022-03-27 20:18:20 INFO  TC004_SearchCommertialProperties:19 - Starting commertial search test
+2022-03-27 20:18:25 INFO  TC004_SearchCommertialProperties:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:18:25 INFO  TC004_SearchCommertialProperties:19 - selcting city as chennai
+2022-03-27 20:18:25 INFO  TC004_SearchCommertialProperties:19 - Entering loacation as TAJ ESTATE AGENCY, Virar East, Virar, Maharashtra, India
+2022-03-27 20:18:30 INFO  TC004_SearchCommertialProperties:19 -  Number of Results found for TAJ ESTATE AGENCY, Virar East, Virar, Maharashtra, India :62
+2022-03-27 20:18:30 INFO  TC004_SearchCommertialProperties:19 - Search for Rent properties Success
+2022-03-27 20:18:35 INFO  TC005_FooterPGHostelSearch:19 - Driver set as Chrome
+2022-03-27 20:18:35 INFO  TC005_FooterPGHostelSearch:19 - Driver Maximizes
+2022-03-27 20:18:35 INFO  TC005_FooterPGHostelSearch:19 - Pg hostel city search 
+2022-03-27 20:18:35 INFO  TC005_FooterPGHostelSearch:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:18:41 INFO  TC005_FooterPGHostelSearch:19 - checking presence of city: Powai
+2022-03-27 20:18:43 INFO  TC005_FooterPGHostelSearch:19 - New Bilder Properties 
+2022-03-27 20:18:47 INFO  TC005_FooterPGHostelSearch:19 - Driver set as Chrome
+2022-03-27 20:18:47 INFO  TC005_FooterPGHostelSearch:19 - Driver Maximizes
+2022-03-27 20:18:47 INFO  TC005_FooterPGHostelSearch:19 - Pg hostel city search 
+2022-03-27 20:18:47 INFO  TC005_FooterPGHostelSearch:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:18:52 INFO  TC005_FooterPGHostelSearch:19 - checking presence of city: Thane West
+2022-03-27 20:18:53 INFO  TC005_FooterPGHostelSearch:19 - New Bilder Properties 
+2022-03-27 20:18:57 INFO  TC005_FooterPGHostelSearch:19 - Driver set as Chrome
+2022-03-27 20:18:58 INFO  TC005_FooterPGHostelSearch:19 - Driver Maximizes
+2022-03-27 20:18:58 INFO  TC005_FooterPGHostelSearch:19 - Pg hostel city search 
+2022-03-27 20:18:58 INFO  TC005_FooterPGHostelSearch:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:19:02 INFO  TC005_FooterPGHostelSearch:19 - checking presence of city: Bavdhan
+2022-03-27 20:19:04 INFO  TC005_FooterPGHostelSearch:19 - New Bilder Properties 
+2022-03-27 20:19:07 INFO  TC006_LoginAndVerifyDetails:19 - Driver set as Chrome
+2022-03-27 20:19:07 INFO  TC006_LoginAndVerifyDetails:19 - Driver Maximizes
+2022-03-27 20:19:07 INFO  TC006_LoginAndVerifyDetails:19 - Entering in to login Test
+2022-03-27 20:19:12 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:19:12 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 20:19:13 INFO  HomePage:19 - Entering phone no : 8919738992
+2022-03-27 20:19:13 INFO  HomePage:19 - Clicking continue
+2022-03-27 20:19:13 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 20:19:15 INFO  HomePage:19 - Entering password : hars2691
+2022-03-27 20:19:15 INFO  HomePage:19 - Clicking on login
+2022-03-27 20:19:18 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='nb__3-MNF'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'HARSHA', ip: '192.168.29.226', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\saivinay\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50248}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50248/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f77b18de8c1e986bb4c48f31454c390e
+2022-03-27 20:19:18 INFO  HomePage:19 - Login and verify Details  FAILED
+2022-03-27 20:19:21 INFO  TC007_BuildersVerifyCity:19 - Driver set as Chrome
+2022-03-27 20:19:21 INFO  TC007_BuildersVerifyCity:19 - Driver Maximizes
+2022-03-27 20:19:21 INFO  TC007_BuildersVerifyCity:19 - New Project location verify started
+2022-03-27 20:19:26 INFO  TC007_BuildersVerifyCity:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:19:26 INFO  TC007_BuildersVerifyCity:19 - Clicking on new builder properties
+2022-03-27 20:19:27 ERROR TC007_BuildersVerifyCity:16 - element click intercepted: Element is not clickable at point (736, 686)
+  (Session info: chrome=99.0.4844.84)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'HARSHA', ip: '192.168.29.226', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [683ea63b07bae0e1d10ac0cd2910e63f, clickElement {id=83ad4488-4420-4871-bdef-86fe7a3cab2a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\saivinay\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50321/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (683ea63b07bae0e1d10ac0cd2910e63f)] -> id: builderHomeTile]
+Session ID: 683ea63b07bae0e1d10ac0cd2910e63f
+2022-03-27 20:19:30 INFO  TC007_BuildersVerifyCity:19 - Driver set as Chrome
+2022-03-27 20:19:30 INFO  TC007_BuildersVerifyCity:19 - Driver Maximizes
+2022-03-27 20:19:30 INFO  TC007_BuildersVerifyCity:19 - New Project location verify started
+2022-03-27 20:19:36 INFO  TC007_BuildersVerifyCity:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:19:36 INFO  TC007_BuildersVerifyCity:19 - Clicking on new builder properties
+2022-03-27 20:19:37 ERROR TC007_BuildersVerifyCity:16 - element click intercepted: Element is not clickable at point (736, 686)
+  (Session info: chrome=99.0.4844.84)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'HARSHA', ip: '192.168.29.226', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [010d61cd4271eb4ec3a8c9eee1334ba9, clickElement {id=77ad3e95-b1b2-430f-947d-c9f8acef788e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\saivinay\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50386}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50386/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (010d61cd4271eb4ec3a8c9eee1334ba9)] -> id: builderHomeTile]
+Session ID: 010d61cd4271eb4ec3a8c9eee1334ba9
+2022-03-27 20:19:40 INFO  TC008_DownloadAndrodApp:19 - Driver set as Chrome
+2022-03-27 20:19:40 INFO  TC008_DownloadAndrodApp:19 - Driver Maximizes
+2022-03-27 20:19:40 INFO  TC008_DownloadAndrodApp:19 - Download Android app
+2022-03-27 20:19:45 INFO  TC008_DownloadAndrodApp:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 20:19:45 INFO  TC008_DownloadAndrodApp:19 - Clicking on download android app
+2022-03-27 20:19:47 INFO  TC008_DownloadAndrodApp:19 - Download Android app
+2022-03-27 20:19:50 INFO  TC009SearchRentProperties:19 - Driver set as Chrome
+2022-03-27 20:19:50 INFO  TC009SearchRentProperties:19 - Driver Maximizes
+2022-03-27 20:19:50 INFO  TC009SearchRentProperties:19 - Starting rent search test
+2022-03-27 20:19:56 INFO  TC009SearchRentProperties:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:20:02 INFO  TC009SearchRentProperties:19 -  Number of Results found for Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India :36
+2022-03-27 20:20:02 INFO  TC009SearchRentProperties:19 - Total results found are :36
+2022-03-27 20:20:02 INFO  TC009SearchRentProperties:19 - Expected Results are :36
+2022-03-27 20:20:02 INFO  TC009SearchRentProperties:19 - Search for Rent properties Success
+2022-03-27 20:20:05 INFO  TC010_VerfyEmiCalculator:19 - Driver set as Chrome
+2022-03-27 20:20:05 INFO  TC010_VerfyEmiCalculator:19 - Driver Maximizes
+2022-03-27 20:20:05 INFO  TC010_VerfyEmiCalculator:19 - Emi CalCulator
+2022-03-27 20:20:05 INFO  TC010_VerfyEmiCalculator:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 20:20:10 INFO  TC010_VerfyEmiCalculator:19 - Opeining emi calculator
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Expected principal Amount: 1,000
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Actual principal Amount: ?1,000
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Expected montly Emi: 42
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Actual montly Emi: 42
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Expected Total Intrest: 9,080
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Actual Total Intrest: 9,080
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Expected Total amount: 10,080
+2022-03-27 20:20:12 INFO  TC010_VerfyEmiCalculator:19 - Actual Total Amount: 10,080
